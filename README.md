@@ -1,4 +1,4 @@
-<img alt="User" src="user.jpeg" style="width: 40%; height: auto;">
+<img alt="User" src="user.jpeg" style="width: 20%; height: auto;">
 
 
 ## ALeo
